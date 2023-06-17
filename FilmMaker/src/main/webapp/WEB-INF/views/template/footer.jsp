@@ -1,3 +1,3 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-<%@ include file="template/header.jsp"%>
+<h3>memberNo : ${sessionScope.memberNo}</h3>
